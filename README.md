@@ -1,2 +1,2 @@
 # TestingGit
-Git
+GitTypo
